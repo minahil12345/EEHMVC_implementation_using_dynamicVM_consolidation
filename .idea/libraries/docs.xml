@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="docs">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/cloudsim-3.0.3/docs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/cloudsim-3.0.3/examples" />
+      <root url="file://$PROJECT_DIR$/cloudsim-3.0.3/sources" />
+    </SOURCES>
+  </library>
+</component>
